@@ -1,0 +1,9 @@
+* Oct 27:
+* We agree that project need 2 classes: Drawing and Checking.
+* - Dung: design and implement Checking class, which can check and output
+*         the winner or stop the game.
+* - Dat : design and implement Drawing class, which can draw the template,
+*         selected positions of players.
+**************************************************************************
+* Oct 29:
+* 
