@@ -1,0 +1,15 @@
+product name,order id,price,amount
+coffee,1,15000,5
+milk,2,20000,7
+latte,3,17000,3
+mango juice,3,21000,2
+fresh water,4,10000,10
+freeze latte,5,19000,5
+orange juice,5,18000,6
+sugar cane juice,5,5000,1
+milk tea,6,25000,7
+coconut,9,15000,11
+cold brew,9,30000,2
+lemon juice,10,11000,5
+water melon juice,11,18000,7
+kiwi juice,11,21000,5
