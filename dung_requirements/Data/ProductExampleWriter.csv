@@ -1,0 +1,8 @@
+ProductName,OrderId,Price,Amount,Total
+BlackCoffe,2,30000,5,150000
+Milk,1,25000,4,100000
+MilkTea,2,40000,3,120000
+CocaCola,5,15000,2,30000
+Pepsi,3,15000,3,45000
+Sting,1,15000,3,45000
+PeachTea,2,50000,3,150000
