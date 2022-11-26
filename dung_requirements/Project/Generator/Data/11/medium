@@ -1,0 +1,1928 @@
+[
+    {
+        "School ID": 50,
+        "Class ID": 3,
+        "Score": {
+            "Math": 6.558693906267216,
+            "Physic": 7.840569324259006,
+            "Chemistry": 7.553581949716757,
+            "Literature": 7.405253346373035,
+            "History": 7.492844382123562,
+            "Geographic": 7.408462590433729,
+            "English": 7.405238288422948,
+            "Technique": 7.577262225464678,
+            "Common Sense": 7.405238251625945,
+            "Computer": 7.405238251629875
+        },
+        "rank": "medium",
+        "average": 7.405238251631675
+    },
+    {
+        "School ID": 50,
+        "Class ID": 5,
+        "Score": {
+            "Math": 7.558763315317223,
+            "Physic": 7.558838916072663,
+            "Chemistry": 7.558863927131143,
+            "Literature": 9.435654532243415,
+            "History": 7.558763436415551,
+            "Geographic": 7.558763436411264,
+            "English": 7.558865486507636,
+            "Technique": 7.558782842111883,
+            "Common Sense": 7.47694873876687,
+            "Computer": 5.763389733177858
+        },
+        "rank": "medium",
+        "average": 7.558763436415551
+    },
+    {
+        "School ID": 50,
+        "Class ID": 8,
+        "Score": {
+            "Math": 7.913112939938421,
+            "Physic": 7.913118307996045,
+            "Chemistry": 7.913112992773571,
+            "Literature": 7.768331391370485,
+            "History": 7.975638831075431,
+            "Geographic": 7.916604815933463,
+            "English": 7.914070176029009,
+            "Technique": 7.913113081884375,
+            "Common Sense": 8.71220511470809,
+            "Computer": 7.191822276026819
+        },
+        "rank": "medium",
+        "average": 7.913112992773572
+    },
+    {
+        "School ID": 50,
+        "Class ID": 14,
+        "Score": {
+            "Math": 6.685126351743075,
+            "Physic": 7.511668731447902,
+            "Chemistry": 7.478202800962944,
+            "Literature": 7.807901079550248,
+            "History": 7.585280649080757,
+            "Geographic": 7.947590499996899,
+            "English": 7.330639511096623,
+            "Technique": 7.478581296901907,
+            "Common Sense": 7.478201426380659,
+            "Computer": 7.478821868402912
+        },
+        "rank": "medium",
+        "average": 7.478201421556394
+    },
+    {
+        "School ID": 50,
+        "Class ID": 17,
+        "Score": {
+            "Math": 7.7805845039482175,
+            "Physic": 7.780586287917353,
+            "Chemistry": 7.821421538497006,
+            "Literature": 7.771796886864049,
+            "History": 7.7816302306024125,
+            "Geographic": 7.780586287877074,
+            "English": 7.815934961727209,
+            "Technique": 7.780586098420585,
+            "Common Sense": 7.712149783416237,
+            "Computer": 7.780586299503353
+        },
+        "rank": "medium",
+        "average": 7.78058628787735
+    },
+    {
+        "School ID": 50,
+        "Class ID": 18,
+        "Score": {
+            "Math": 6.584221774182889,
+            "Physic": 6.744635320109024,
+            "Chemistry": 8.129321113310157,
+            "Literature": 5.791704965654853,
+            "History": 6.744635386518173,
+            "Geographic": 6.715416193489356,
+            "English": 6.74302141599944,
+            "Technique": 6.47970776648294,
+            "Common Sense": 6.744635390714217,
+            "Computer": 6.769054580681121
+        },
+        "rank": "medium",
+        "average": 6.744635390714215
+    },
+    {
+        "School ID": 50,
+        "Class ID": 27,
+        "Score": {
+            "Math": 7.485558803726159,
+            "Physic": 8.279622965209946,
+            "Chemistry": 7.501184659947072,
+            "Literature": 7.485557905865819,
+            "History": 7.67262715820972,
+            "Geographic": 7.485595095154171,
+            "English": 7.492804536761356,
+            "Technique": 7.485558774200995,
+            "Common Sense": 6.481520243624421,
+            "Computer": 7.485558095584043
+        },
+        "rank": "medium",
+        "average": 7.485558823828368
+    },
+    {
+        "School ID": 50,
+        "Class ID": 31,
+        "Score": {
+            "Math": 7.374142571877512,
+            "Physic": 7.380378903456716,
+            "Chemistry": 7.357103929239962,
+            "Literature": 7.382879044829813,
+            "History": 7.382949176604675,
+            "Geographic": 8.714446563391048,
+            "English": 7.3759313667763005,
+            "Technique": 7.382879128408539,
+            "Common Sense": 6.095200717112141,
+            "Computer": 7.382879046597837
+        },
+        "rank": "medium",
+        "average": 7.382879044829454
+    },
+    {
+        "School ID": 50,
+        "Class ID": 33,
+        "Score": {
+            "Math": 7.960174837685067,
+            "Physic": 7.873973285265496,
+            "Chemistry": 7.8664081914901525,
+            "Literature": 8.011149794974841,
+            "History": 7.150643491755184,
+            "Geographic": 7.864333942363687,
+            "English": 8.065450737895484,
+            "Technique": 7.867467351672281,
+            "Common Sense": 7.88524723810691,
+            "Computer": 8.098311153487687
+        },
+        "rank": "medium",
+        "average": 7.864316002469678
+    },
+    {
+        "School ID": 50,
+        "Class ID": 34,
+        "Score": {
+            "Math": 6.519153978329646,
+            "Physic": 6.519084169676518,
+            "Chemistry": 6.519087913093828,
+            "Literature": 6.519090272118681,
+            "History": 6.519083954394006,
+            "Geographic": 7.476208449877655,
+            "English": 6.511734888284528,
+            "Technique": 6.499864649072613,
+            "Common Sense": 5.58886525092714,
+            "Computer": 6.518668165869538
+        },
+        "rank": "medium",
+        "average": 6.519084169164415
+    },
+    {
+        "School ID": 1,
+        "Class ID": 1,
+        "Score": {
+            "Math": 8.16228263575752,
+            "Physic": 7.4058269702464194,
+            "Chemistry": 7.394477737303452,
+            "Literature": 7.394741610785665,
+            "History": 7.3949197143627865,
+            "Geographic": 7.394738774183905,
+            "English": 7.327949446439862,
+            "Technique": 7.259495317432699,
+            "Common Sense": 6.901864754014684,
+            "Computer": 7.311119243093064
+        },
+        "rank": "medium",
+        "average": 7.394741620362005
+    },
+    {
+        "School ID": 1,
+        "Class ID": 12,
+        "Score": {
+            "Math": 7.717140758765109,
+            "Physic": 7.696779591096108,
+            "Chemistry": 7.7261832631729686,
+            "Literature": 7.716581103383126,
+            "History": 7.717134688441708,
+            "Geographic": 7.714107706787104,
+            "English": 7.715770118188799,
+            "Technique": 7.724546083911483,
+            "Common Sense": 7.726023985452793,
+            "Computer": 7.717140810947766
+        },
+        "rank": "medium",
+        "average": 7.717140811014697
+    },
+    {
+        "School ID": 1,
+        "Class ID": 20,
+        "Score": {
+            "Math": 7.736210791416957,
+            "Physic": 7.771462946951089,
+            "Chemistry": 7.7361111845577275,
+            "Literature": 7.647566137873792,
+            "History": 7.673383571295987,
+            "Geographic": 7.732858024713391,
+            "English": 7.507725013879745,
+            "Technique": 7.643967573368007,
+            "Common Sense": 7.735991234797373,
+            "Computer": 8.175849406302218
+        },
+        "rank": "medium",
+        "average": 7.7361125885156286
+    },
+    {
+        "School ID": 1,
+        "Class ID": 24,
+        "Score": {
+            "Math": 7.0670851803820876,
+            "Physic": 7.439499081326032,
+            "Chemistry": 7.265658592423658,
+            "Literature": 7.413082924277847,
+            "History": 7.46383445532511,
+            "Geographic": 8.294438695681679,
+            "English": 7.229459526342157,
+            "Technique": 7.4742961453214285,
+            "Common Sense": 7.455731065558646,
+            "Computer": 7.639875786575642
+        },
+        "rank": "medium",
+        "average": 7.474296145321429
+    },
+    {
+        "School ID": 1,
+        "Class ID": 26,
+        "Score": {
+            "Math": 7.873478833779185,
+            "Physic": 7.806279971976969,
+            "Chemistry": 8.36062481913764,
+            "Literature": 7.872966670667658,
+            "History": 6.904641872244439,
+            "Geographic": 7.872560818745904,
+            "English": 7.872635270509247,
+            "Technique": 8.418007686855038,
+            "Common Sense": 7.872617618438668,
+            "Computer": 7.872645949115044
+        },
+        "rank": "medium",
+        "average": 7.872645951146978
+    },
+    {
+        "School ID": 16,
+        "Class ID": 7,
+        "Score": {
+            "Math": 6.761660758021205,
+            "Physic": 7.0626200820267,
+            "Chemistry": 7.164291260859532,
+            "Literature": 7.16238089584551,
+            "History": 7.163258905973491,
+            "Geographic": 5.829968581023912,
+            "English": 7.169161661996685,
+            "Technique": 7.163165005305017,
+            "Common Sense": 7.1623801337991555,
+            "Computer": 8.984911603726548
+        },
+        "rank": "medium",
+        "average": 7.162379888857775
+    },
+    {
+        "School ID": 16,
+        "Class ID": 9,
+        "Score": {
+            "Math": 6.9147788040208,
+            "Physic": 7.779152358680572,
+            "Chemistry": 7.92554296017606,
+            "Literature": 7.576753143297356,
+            "History": 7.776794588826279,
+            "Geographic": 8.779734233236498,
+            "English": 7.776755006115607,
+            "Technique": 7.790385995006333,
+            "Common Sense": 7.776823440005152,
+            "Computer": 7.671517876578165
+        },
+        "rank": "medium",
+        "average": 7.776823840594281
+    },
+    {
+        "School ID": 16,
+        "Class ID": 17,
+        "Score": {
+            "Math": 7.627763210535693,
+            "Physic": 7.980163117014087,
+            "Chemistry": 9.069874480567542,
+            "Literature": 7.994422836821332,
+            "History": 7.994422836789417,
+            "Geographic": 7.99421822622756,
+            "English": 7.393248570846802,
+            "Technique": 7.946359246796639,
+            "Common Sense": 7.994422836844774,
+            "Computer": 7.949333006003897
+        },
+        "rank": "medium",
+        "average": 7.994422836844774
+    },
+    {
+        "School ID": 16,
+        "Class ID": 18,
+        "Score": {
+            "Math": 7.609650318339485,
+            "Physic": 7.851578551955272,
+            "Chemistry": 7.890825532727352,
+            "Literature": 7.853062839190794,
+            "History": 7.887355775515756,
+            "Geographic": 7.766486842635274,
+            "English": 7.890825504074768,
+            "Technique": 8.457197149914188,
+            "Common Sense": 7.810473534821511,
+            "Computer": 7.8907989886416825
+        },
+        "rank": "medium",
+        "average": 7.890825503781608
+    },
+    {
+        "School ID": 16,
+        "Class ID": 26,
+        "Score": {
+            "Math": 5.363353335777892,
+            "Physic": 6.619309375420966,
+            "Chemistry": 6.503440422268359,
+            "Literature": 6.505620871259122,
+            "History": 7.209395637170338,
+            "Geographic": 6.5230109357012065,
+            "English": 6.530819367292538,
+            "Technique": 6.5096844523624435,
+            "Common Sense": 6.766329402512068,
+            "Computer": 6.503440422918659
+        },
+        "rank": "medium",
+        "average": 6.503440422268359
+    },
+    {
+        "School ID": 16,
+        "Class ID": 29,
+        "Score": {
+            "Math": 7.581790563231404,
+            "Physic": 7.768939992002155,
+            "Chemistry": 7.6025158041312695,
+            "Literature": 7.602514787349968,
+            "History": 7.602521642131847,
+            "Geographic": 8.32383778611207,
+            "English": 7.378335282256004,
+            "Technique": 7.6063297901381155,
+            "Common Sense": 7.071245519862886,
+            "Computer": 7.487116692312744
+        },
+        "rank": "medium",
+        "average": 7.602514785952846
+    },
+    {
+        "School ID": 4,
+        "Class ID": 0,
+        "Score": {
+            "Math": 6.935710521365904,
+            "Physic": 7.246964776064116,
+            "Chemistry": 7.510647056879715,
+            "Literature": 7.246963384189048,
+            "History": 7.157371840185681,
+            "Geographic": 6.6350556419452404,
+            "English": 8.07215506330199,
+            "Technique": 7.172876604536233,
+            "Common Sense": 7.244946082384334,
+            "Computer": 7.246956791267559
+        },
+        "rank": "medium",
+        "average": 7.246964776211984
+    },
+    {
+        "School ID": 4,
+        "Class ID": 15,
+        "Score": {
+            "Math": 6.644519800194803,
+            "Physic": 6.6447873639458095,
+            "Chemistry": 6.644902008518142,
+            "Literature": 6.644519498298463,
+            "History": 6.645193265464408,
+            "Geographic": 7.200337157936571,
+            "English": 5.557196653422222,
+            "Technique": 6.7818176720832195,
+            "Common Sense": 7.290809569207958,
+            "Computer": 6.391111310272554
+        },
+        "rank": "medium",
+        "average": 6.644519429934415
+    },
+    {
+        "School ID": 4,
+        "Class ID": 23,
+        "Score": {
+            "Math": 6.912352652132781,
+            "Physic": 5.958363846721131,
+            "Chemistry": 6.916867938080048,
+            "Literature": 6.917280118717522,
+            "History": 6.903443009824098,
+            "Geographic": 6.917282139618244,
+            "English": 6.9172234877763445,
+            "Technique": 7.008463486575851,
+            "Common Sense": 6.917276282209268,
+            "Computer": 7.804248248702755
+        },
+        "rank": "medium",
+        "average": 6.917280121035804
+    },
+    {
+        "School ID": 4,
+        "Class ID": 29,
+        "Score": {
+            "Math": 6.88483052910424,
+            "Physic": 6.884831023603186,
+            "Chemistry": 6.8723012951836555,
+            "Literature": 6.88483536042364,
+            "History": 6.827281112300632,
+            "Geographic": 6.1578259415238525,
+            "English": 6.884825769015677,
+            "Technique": 7.259715728070879,
+            "Common Sense": 6.880815553624826,
+            "Computer": 7.311042978191813
+        },
+        "rank": "medium",
+        "average": 6.88483052910424
+    },
+    {
+        "School ID": 4,
+        "Class ID": 30,
+        "Score": {
+            "Math": 7.689255153649795,
+            "Physic": 7.689152571482969,
+            "Chemistry": 7.689250049641338,
+            "Literature": 7.192088244387227,
+            "History": 7.267974180509705,
+            "Geographic": 7.689255141376287,
+            "English": 8.630802299112409,
+            "Technique": 7.689255143066058,
+            "Common Sense": 7.68920760291037,
+            "Computer": 7.666311044520947
+        },
+        "rank": "medium",
+        "average": 7.689255143065711
+    },
+    {
+        "School ID": 36,
+        "Class ID": 3,
+        "Score": {
+            "Math": 6.231789817269832,
+            "Physic": 7.165541623186599,
+            "Chemistry": 8.547149119657478,
+            "Literature": 7.433456645611346,
+            "History": 7.220593610375961,
+            "Geographic": 7.3181365850264175,
+            "English": 6.627514420462216,
+            "Technique": 7.2205935318081504,
+            "Common Sense": 7.2205725671267285,
+            "Computer": 7.22058818435587
+        },
+        "rank": "medium",
+        "average": 7.220593610488059
+    },
+    {
+        "School ID": 36,
+        "Class ID": 4,
+        "Score": {
+            "Math": 7.053190320239306,
+            "Physic": 7.183164460511142,
+            "Chemistry": 7.128526995209835,
+            "Literature": 7.18355778404764,
+            "History": 7.183209493570421,
+            "Geographic": 7.773057936818428,
+            "English": 6.818766246985936,
+            "Technique": 7.183729879934612,
+            "Common Sense": 7.1831198304083,
+            "Computer": 7.140848597153619
+        },
+        "rank": "medium",
+        "average": 7.183117154487924
+    },
+    {
+        "School ID": 36,
+        "Class ID": 5,
+        "Score": {
+            "Math": 7.367974902049065,
+            "Physic": 7.362277514704849,
+            "Chemistry": 7.366830220597078,
+            "Literature": 7.367974885931289,
+            "History": 7.367968637592635,
+            "Geographic": 7.367915887875046,
+            "English": 7.438474421310624,
+            "Technique": 7.161337094798978,
+            "Common Sense": 7.507467490617602,
+            "Computer": 7.371527965630635
+        },
+        "rank": "medium",
+        "average": 7.367974902110781
+    },
+    {
+        "School ID": 36,
+        "Class ID": 17,
+        "Score": {
+            "Math": 6.742773434281836,
+            "Physic": 6.74279736172557,
+            "Chemistry": 6.7427727394693235,
+            "Literature": 6.667999344717956,
+            "History": 6.781624388101804,
+            "Geographic": 6.744818677942285,
+            "English": 6.7430220665335,
+            "Technique": 6.74500950991878,
+            "Common Sense": 6.743715655053526,
+            "Computer": 6.773194204002797
+        },
+        "rank": "medium",
+        "average": 6.742772738174738
+    },
+    {
+        "School ID": 36,
+        "Class ID": 20,
+        "Score": {
+            "Math": 6.864927083175852,
+            "Physic": 7.107766120309128,
+            "Chemistry": 7.272968674985252,
+            "Literature": 7.660304525981606,
+            "History": 7.106096761673057,
+            "Geographic": 6.30853961825344,
+            "English": 7.096785538188373,
+            "Technique": 7.591128366039289,
+            "Common Sense": 7.0749698192547,
+            "Computer": 6.994210577319802
+        },
+        "rank": "medium",
+        "average": 7.107769708518051
+    },
+    {
+        "School ID": 36,
+        "Class ID": 24,
+        "Score": {
+            "Math": 7.594153290284631,
+            "Physic": 7.833287387773763,
+            "Chemistry": 7.835525267798565,
+            "Literature": 6.5349047727873595,
+            "History": 7.830180186651861,
+            "Geographic": 7.8301704361499835,
+            "English": 9.325781556835821,
+            "Technique": 7.830198477741962,
+            "Common Sense": 7.8560616738926194,
+            "Computer": 7.831444874100181
+        },
+        "rank": "medium",
+        "average": 7.830170792401676
+    },
+    {
+        "School ID": 36,
+        "Class ID": 26,
+        "Score": {
+            "Math": 7.236374523255876,
+            "Physic": 7.236349086199372,
+            "Chemistry": 7.236344080266443,
+            "Literature": 7.226470767477853,
+            "History": 7.236347531406778,
+            "Geographic": 8.557320942342722,
+            "English": 7.2730407581560925,
+            "Technique": 7.236346216470844,
+            "Common Sense": 7.377743231728358,
+            "Computer": 5.747093781188642
+        },
+        "rank": "medium",
+        "average": 7.236343091849297
+    },
+    {
+        "School ID": 36,
+        "Class ID": 29,
+        "Score": {
+            "Math": 7.911815439813113,
+            "Physic": 8.542776678727384,
+            "Chemistry": 6.911972979863706,
+            "Literature": 8.014617401795412,
+            "History": 7.559556679553864,
+            "Geographic": 7.5593853798882975,
+            "English": 6.416946861244281,
+            "Technique": 7.559556670690994,
+            "Common Sense": 7.559382024504479,
+            "Computer": 7.559556679460402
+        },
+        "rank": "medium",
+        "average": 7.559556679554193
+    },
+    {
+        "School ID": 36,
+        "Class ID": 33,
+        "Score": {
+            "Math": 7.9283266672180375,
+            "Physic": 8.041428806741367,
+            "Chemistry": 7.928194314317997,
+            "Literature": 7.334507161480104,
+            "History": 7.926802425855291,
+            "Geographic": 7.926803458738609,
+            "English": 7.902850224961434,
+            "Technique": 8.403243516617453,
+            "Common Sense": 7.9273462215620984,
+            "Computer": 7.94852146106052
+        },
+        "rank": "medium",
+        "average": 7.926802425855291
+    },
+    {
+        "School ID": 23,
+        "Class ID": 2,
+        "Score": {
+            "Math": 8.482020696361964,
+            "Physic": 6.736102801701035,
+            "Chemistry": 6.558855095324448,
+            "Literature": 6.542299337498003,
+            "History": 6.733563804570616,
+            "Geographic": 5.622828285368893,
+            "English": 6.71052525985122,
+            "Technique": 6.502707734112894,
+            "Common Sense": 6.7360603923124724,
+            "Computer": 6.736064609912101
+        },
+        "rank": "medium",
+        "average": 6.7361028017013656
+    },
+    {
+        "School ID": 23,
+        "Class ID": 4,
+        "Score": {
+            "Math": 7.232313378210701,
+            "Physic": 7.566915152163482,
+            "Chemistry": 7.574930765234541,
+            "Literature": 7.196358103361584,
+            "History": 7.583229526862118,
+            "Geographic": 7.669469224604879,
+            "English": 8.199638600401821,
+            "Technique": 7.574932480040525,
+            "Common Sense": 7.574920128375029,
+            "Computer": 7.57659937395405
+        },
+        "rank": "medium",
+        "average": 7.574930673320874
+    },
+    {
+        "School ID": 23,
+        "Class ID": 6,
+        "Score": {
+            "Math": 7.397047362508288,
+            "Physic": 7.396776358149846,
+            "Chemistry": 7.397048471003252,
+            "Literature": 7.310349878135728,
+            "History": 8.03658923226664,
+            "Geographic": 6.670433663756465,
+            "English": 7.386643103300418,
+            "Technique": 7.560224536016872,
+            "Common Sense": 7.397049120545884,
+            "Computer": 7.418330823042415
+        },
+        "rank": "medium",
+        "average": 7.39704925487258
+    },
+    {
+        "School ID": 23,
+        "Class ID": 11,
+        "Score": {
+            "Math": 7.848745797687002,
+            "Physic": 7.845507354094972,
+            "Chemistry": 7.849052300105211,
+            "Literature": 7.99686739782193,
+            "History": 7.729753362045175,
+            "Geographic": 7.798627321434059,
+            "English": 7.838105700695363,
+            "Technique": 7.915335655994409,
+            "Common Sense": 7.84899458468122,
+            "Computer": 7.819533526777746
+        },
+        "rank": "medium",
+        "average": 7.849052300133709
+    },
+    {
+        "School ID": 23,
+        "Class ID": 24,
+        "Score": {
+            "Math": 7.883863828278457,
+            "Physic": 7.397122080784682,
+            "Chemistry": 7.788240648062829,
+            "Literature": 7.788224582515289,
+            "History": 7.787211590977174,
+            "Geographic": 8.270923853709624,
+            "English": 7.78824066535288,
+            "Technique": 7.794288021831968,
+            "Common Sense": 7.788240798485595,
+            "Computer": 7.5960504104679964
+        },
+        "rank": "medium",
+        "average": 7.788240648046648
+    },
+    {
+        "School ID": 23,
+        "Class ID": 30,
+        "Score": {
+            "Math": 6.444293885028447,
+            "Physic": 6.51041417330469,
+            "Chemistry": 6.4958598586053355,
+            "Literature": 6.5055427299578765,
+            "History": 6.160030242509346,
+            "Geographic": 6.510414166253258,
+            "English": 6.5104129102028665,
+            "Technique": 6.520938809099624,
+            "Common Sense": 7.0136638610773145,
+            "Computer": 6.432571024547657
+        },
+        "rank": "medium",
+        "average": 6.5104141660586405
+    },
+    {
+        "School ID": 23,
+        "Class ID": 33,
+        "Score": {
+            "Math": 6.791569392600394,
+            "Physic": 6.791685790769179,
+            "Chemistry": 8.437775105208797,
+            "Literature": 6.464471552236086,
+            "History": 6.791740424797809,
+            "Geographic": 6.8633655431639164,
+            "English": 5.357055478588023,
+            "Technique": 6.79173706037117,
+            "Common Sense": 6.784375450031618,
+            "Computer": 6.843654668581248
+        },
+        "rank": "medium",
+        "average": 6.791743046634823
+    },
+    {
+        "School ID": 44,
+        "Class ID": 0,
+        "Score": {
+            "Math": 7.923750437418554,
+            "Physic": 8.552264426983667,
+            "Chemistry": 7.895973217487151,
+            "Literature": 7.435746586816255,
+            "History": 7.880225991954102,
+            "Geographic": 7.6734489752189665,
+            "English": 7.895973192357812,
+            "Technique": 7.895976381393663,
+            "Common Sense": 7.910399517457357,
+            "Computer": 7.895973194350927
+        },
+        "rank": "medium",
+        "average": 7.895973192143846
+    },
+    {
+        "School ID": 44,
+        "Class ID": 1,
+        "Score": {
+            "Math": 7.136713389515338,
+            "Physic": 7.136880820242426,
+            "Chemistry": 7.136719309441845,
+            "Literature": 5.955017983843483,
+            "History": 7.285644576714343,
+            "Geographic": 8.12777159191013,
+            "English": 7.137151278399842,
+            "Technique": 7.144719481121357,
+            "Common Sense": 7.169802074085465,
+            "Computer": 7.136713389879148
+        },
+        "rank": "medium",
+        "average": 7.136713389515338
+    },
+    {
+        "School ID": 44,
+        "Class ID": 4,
+        "Score": {
+            "Math": 7.929674464381349,
+            "Physic": 7.928970388960675,
+            "Chemistry": 7.929667865526297,
+            "Literature": 7.929685598880079,
+            "History": 7.9296861295274566,
+            "Geographic": 7.92958681209218,
+            "English": 7.416684650307905,
+            "Technique": 7.929580701083964,
+            "Common Sense": 8.445324246972795,
+            "Computer": 7.928008239384991
+        },
+        "rank": "medium",
+        "average": 7.929686909711769
+    },
+    {
+        "School ID": 44,
+        "Class ID": 5,
+        "Score": {
+            "Math": 7.6211836326964475,
+            "Physic": 6.6310891044100035,
+            "Chemistry": 5.463090392112381,
+            "Literature": 6.629735929117033,
+            "History": 6.283554319171633,
+            "Geographic": 6.759979318558565,
+            "English": 6.629749340827865,
+            "Technique": 7.0195034754283965,
+            "Common Sense": 6.629735691028415,
+            "Computer": 6.629735689198484
+        },
+        "rank": "medium",
+        "average": 6.629735689254922
+    },
+    {
+        "School ID": 44,
+        "Class ID": 9,
+        "Score": {
+            "Math": 6.574172300805038,
+            "Physic": 6.574119847243144,
+            "Chemistry": 6.564540072797478,
+            "Literature": 6.180701408027101,
+            "History": 6.574172499686735,
+            "Geographic": 6.623792299643491,
+            "English": 6.4299143661750335,
+            "Technique": 6.574172533801042,
+            "Common Sense": 7.073791309951765,
+            "Computer": 6.572348358734863
+        },
+        "rank": "medium",
+        "average": 6.5741724996865685
+    },
+    {
+        "School ID": 44,
+        "Class ID": 22,
+        "Score": {
+            "Math": 7.834274845552036,
+            "Physic": 7.700604603602101,
+            "Chemistry": 7.832245034314957,
+            "Literature": 7.834045833293647,
+            "History": 8.266894608370581,
+            "Geographic": 9.022743427940789,
+            "English": 6.512617259747231,
+            "Technique": 7.834083395630337,
+            "Common Sense": 7.6689034908442055,
+            "Computer": 7.834045833255098
+        },
+        "rank": "medium",
+        "average": 7.834045833255098
+    },
+    {
+        "School ID": 44,
+        "Class ID": 23,
+        "Score": {
+            "Math": 7.533806071804322,
+            "Physic": 5.891258864658894,
+            "Chemistry": 9.715604128635658,
+            "Literature": 7.5355063224392556,
+            "History": 7.535229071378463,
+            "Geographic": 7.53549640134139,
+            "English": 7.5355489764529455,
+            "Technique": 7.099948998078421,
+            "Common Sense": 7.437260873861843,
+            "Computer": 7.535517736218539
+        },
+        "rank": "medium",
+        "average": 7.535517744486972
+    },
+    {
+        "School ID": 44,
+        "Class ID": 30,
+        "Score": {
+            "Math": 7.873784311448643,
+            "Physic": 7.7703466894889806,
+            "Chemistry": 7.770322906714686,
+            "Literature": 7.504332541711298,
+            "History": 7.839433859803911,
+            "Geographic": 7.770472964658122,
+            "English": 7.6277220267044,
+            "Technique": 7.978160067714494,
+            "Common Sense": 7.770322887353756,
+            "Computer": 7.798330613547803
+        },
+        "rank": "medium",
+        "average": 7.770322886914609
+    },
+    {
+        "School ID": 9,
+        "Class ID": 0,
+        "Score": {
+            "Math": 6.805625148921572,
+            "Physic": 7.285225208831076,
+            "Chemistry": 7.280656103310599,
+            "Literature": 7.275518743872882,
+            "History": 7.286850630323015,
+            "Geographic": 7.286559376842967,
+            "English": 7.287546866190933,
+            "Technique": 7.299944795116802,
+            "Common Sense": 7.2586668780031145,
+            "Computer": 7.8019130280290385
+        },
+        "rank": "medium",
+        "average": 7.286850677944199
+    },
+    {
+        "School ID": 9,
+        "Class ID": 11,
+        "Score": {
+            "Math": 7.258528018279189,
+            "Physic": 8.022624703297938,
+            "Chemistry": 7.25938574260932,
+            "Literature": 7.258481792923403,
+            "History": 7.258527989653484,
+            "Geographic": 7.2585279896534525,
+            "English": 7.258528201114608,
+            "Technique": 7.258527989653458,
+            "Common Sense": 6.579837182246534,
+            "Computer": 7.172310287103127
+        },
+        "rank": "medium",
+        "average": 7.258527989653452
+    },
+    {
+        "School ID": 9,
+        "Class ID": 22,
+        "Score": {
+            "Math": 7.0500803088472415,
+            "Physic": 7.793451003776394,
+            "Chemistry": 7.050086148277127,
+            "Literature": 7.099463838669707,
+            "History": 6.87931182259412,
+            "Geographic": 7.070101163023809,
+            "English": 7.0500803280780975,
+            "Technique": 7.050361848737364,
+            "Common Sense": 6.407580157162585,
+            "Computer": 7.050285846809651
+        },
+        "rank": "medium",
+        "average": 7.050080246597609
+    },
+    {
+        "School ID": 9,
+        "Class ID": 25,
+        "Score": {
+            "Math": 7.504263657440349,
+            "Physic": 8.473746981431239,
+            "Chemistry": 7.504324418477177,
+            "Literature": 7.519480042320319,
+            "History": 7.504307589888471,
+            "Geographic": 7.504339357443961,
+            "English": 7.504210946016708,
+            "Technique": 7.50245117847122,
+            "Common Sense": 7.6530600377718985,
+            "Computer": 6.37320936737025
+        },
+        "rank": "medium",
+        "average": 7.5043393576631585
+    },
+    {
+        "School ID": 9,
+        "Class ID": 28,
+        "Score": {
+            "Math": 7.812324673354052,
+            "Physic": 7.806590934151965,
+            "Chemistry": 7.785668351821003,
+            "Literature": 7.2066512556417806,
+            "History": 7.808490944708611,
+            "Geographic": 7.806591085865232,
+            "English": 7.806591073859817,
+            "Technique": 8.543452737895327,
+            "Common Sense": 7.7825355704221,
+            "Computer": 7.707014230932435
+        },
+        "rank": "medium",
+        "average": 7.806591085865233
+    },
+    {
+        "School ID": 9,
+        "Class ID": 31,
+        "Score": {
+            "Math": 7.089224746882229,
+            "Physic": 6.35621131313459,
+            "Chemistry": 7.08930370216402,
+            "Literature": 7.090125483330527,
+            "History": 7.089244134813799,
+            "Geographic": 7.048163208010888,
+            "English": 7.089218003442805,
+            "Technique": 7.089296139660456,
+            "Common Sense": 7.364677547732291,
+            "Computer": 7.586780644749982
+        },
+        "rank": "medium",
+        "average": 7.08922449239216
+    },
+    {
+        "School ID": 39,
+        "Class ID": 0,
+        "Score": {
+            "Math": 7.156210888230121,
+            "Physic": 7.156340474078286,
+            "Chemistry": 6.894939972514598,
+            "Literature": 7.156363483889103,
+            "History": 7.15625323798768,
+            "Geographic": 7.150607840083776,
+            "English": 7.182571304398025,
+            "Technique": 7.15636362067484,
+            "Common Sense": 7.156363584322502,
+            "Computer": 7.397621800569472
+        },
+        "rank": "medium",
+        "average": 7.15636362067484
+    },
+    {
+        "School ID": 39,
+        "Class ID": 2,
+        "Score": {
+            "Math": 8.231899281607369,
+            "Physic": 6.076732908389643,
+            "Chemistry": 6.877431058031203,
+            "Literature": 6.871242764881859,
+            "History": 6.870715919206948,
+            "Geographic": 6.870715918769925,
+            "English": 6.919239635198095,
+            "Technique": 6.541782473298058,
+            "Common Sense": 6.576683308454821,
+            "Computer": 6.870715919832267
+        },
+        "rank": "medium",
+        "average": 6.870715918767019
+    },
+    {
+        "School ID": 39,
+        "Class ID": 24,
+        "Score": {
+            "Math": 7.147680304249164,
+            "Physic": 7.155955511790706,
+            "Chemistry": 7.698568131128785,
+            "Literature": 6.940147692751631,
+            "History": 5.764991521874688,
+            "Geographic": 7.1567736881824775,
+            "English": 7.147561803617714,
+            "Technique": 8.147397112814398,
+            "Common Sense": 7.149693945528281,
+            "Computer": 7.166848324239134
+        },
+        "rank": "medium",
+        "average": 7.147561803617698
+    },
+    {
+        "School ID": 39,
+        "Class ID": 26,
+        "Score": {
+            "Math": 7.4189428255703085,
+            "Physic": 7.628326186792319,
+            "Chemistry": 7.429273907603115,
+            "Literature": 7.418942825570671,
+            "History": 7.418963112471884,
+            "Geographic": 7.446254667325781,
+            "English": 7.4397235731394025,
+            "Technique": 7.156397340694798,
+            "Common Sense": 7.405041029557897,
+            "Computer": 7.427562786976912
+        },
+        "rank": "medium",
+        "average": 7.418942825570308
+    },
+    {
+        "School ID": 18,
+        "Class ID": 0,
+        "Score": {
+            "Math": 7.4500991656365185,
+            "Physic": 8.815172815625518,
+            "Chemistry": 7.455916906868563,
+            "Literature": 7.4503568347335545,
+            "History": 6.360397457420677,
+            "Geographic": 7.378588903786419,
+            "English": 7.440156881599741,
+            "Technique": 7.252840989076381,
+            "Common Sense": 7.4504219857727625,
+            "Computer": 7.450267917397285
+        },
+        "rank": "medium",
+        "average": 7.450421985791742
+    },
+    {
+        "School ID": 18,
+        "Class ID": 3,
+        "Score": {
+            "Math": 7.923361184349334,
+            "Physic": 8.363220008725188,
+            "Chemistry": 7.921095234790483,
+            "Literature": 7.921142911188426,
+            "History": 7.927969795844811,
+            "Geographic": 7.9210951978060224,
+            "English": 7.924356956344427,
+            "Technique": 7.780845223818064,
+            "Common Sense": 7.921095180143404,
+            "Computer": 7.606770102350474
+        },
+        "rank": "medium",
+        "average": 7.9210951795360645
+    },
+    {
+        "School ID": 18,
+        "Class ID": 5,
+        "Score": {
+            "Math": 6.870558987876448,
+            "Physic": 6.9306849878789345,
+            "Chemistry": 6.753498757148885,
+            "Literature": 7.73303178610585,
+            "History": 6.714139775764396,
+            "Geographic": 6.185090646310751,
+            "English": 6.870582020778052,
+            "Technique": 6.900214977767055,
+            "Common Sense": 6.871984226045816,
+            "Computer": 6.869976240659058
+        },
+        "rank": "medium",
+        "average": 6.869976240633525
+    },
+    {
+        "School ID": 18,
+        "Class ID": 10,
+        "Score": {
+            "Math": 7.704885290635144,
+            "Physic": 7.705150855795926,
+            "Chemistry": 7.705173283771026,
+            "Literature": 7.705172841624756,
+            "History": 7.704403964600914,
+            "Geographic": 7.653142287341319,
+            "English": 7.688294973975362,
+            "Technique": 7.98945804284335,
+            "Common Sense": 7.705173893675383,
+            "Computer": 7.490872468104082
+        },
+        "rank": "medium",
+        "average": 7.705172790236726
+    },
+    {
+        "School ID": 18,
+        "Class ID": 20,
+        "Score": {
+            "Math": 7.20053103132968,
+            "Physic": 7.239538917763453,
+            "Chemistry": 6.815206177889093,
+            "Literature": 7.078973009379639,
+            "History": 7.080178092407591,
+            "Geographic": 7.080425316380266,
+            "English": 7.078973013744423,
+            "Technique": 7.083702695751434,
+            "Common Sense": 7.028466820502264,
+            "Computer": 7.103735018576632
+        },
+        "rank": "medium",
+        "average": 7.078973009372447
+    },
+    {
+        "School ID": 18,
+        "Class ID": 21,
+        "Score": {
+            "Math": 6.488720160445773,
+            "Physic": 6.405135495724636,
+            "Chemistry": 6.526553633831915,
+            "Literature": 6.526696542415806,
+            "History": 6.525914465795085,
+            "Geographic": 6.506503622726029,
+            "English": 7.306197371656918,
+            "Technique": 6.501002504626709,
+            "Common Sense": 6.334080917443256,
+            "Computer": 6.146755569919336
+        },
+        "rank": "medium",
+        "average": 6.526756028458547
+    },
+    {
+        "School ID": 18,
+        "Class ID": 32,
+        "Score": {
+            "Math": 6.729421424441428,
+            "Physic": 5.452376876935395,
+            "Chemistry": 6.729421376034799,
+            "Literature": 6.702270294586051,
+            "History": 6.729421424441359,
+            "Geographic": 6.711475534507646,
+            "English": 6.470666161904938,
+            "Technique": 6.259347074396077,
+            "Common Sense": 8.780402546910059,
+            "Computer": 6.729411530256102
+        },
+        "rank": "medium",
+        "average": 6.729421424441386
+    },
+    {
+        "School ID": 18,
+        "Class ID": 34,
+        "Score": {
+            "Math": 6.610316294290512,
+            "Physic": 7.97565046913647,
+            "Chemistry": 7.975650469099438,
+            "Literature": 7.975650468771944,
+            "History": 7.992445945505864,
+            "Geographic": 7.975650469264986,
+            "English": 9.175413172676857,
+            "Technique": 7.975820778039116,
+            "Common Sense": 7.982497399181729,
+            "Computer": 8.117409225397784
+        },
+        "rank": "medium",
+        "average": 7.975650469136468
+    },
+    {
+        "School ID": 38,
+        "Class ID": 7,
+        "Score": {
+            "Math": 7.549800001218176,
+            "Physic": 7.54882525552821,
+            "Chemistry": 6.65511174622201,
+            "Literature": 7.5417999734280246,
+            "History": 7.549802905065145,
+            "Geographic": 7.551012534991498,
+            "English": 7.807967029151691,
+            "Technique": 8.574843217125162,
+            "Common Sense": 7.549803503821653,
+            "Computer": 7.169068873303156
+        },
+        "rank": "medium",
+        "average": 7.549803503985473
+    },
+    {
+        "School ID": 38,
+        "Class ID": 9,
+        "Score": {
+            "Math": 7.331738842108008,
+            "Physic": 7.803227789246173,
+            "Chemistry": 7.726349069500243,
+            "Literature": 7.74936958805727,
+            "History": 8.165485193490227,
+            "Geographic": 7.755411542109435,
+            "English": 7.7554080469109365,
+            "Technique": 7.75627429827104,
+            "Common Sense": 7.755408047113555,
+            "Computer": 7.755408055852119
+        },
+        "rank": "medium",
+        "average": 7.7554080472659
+    },
+    {
+        "School ID": 38,
+        "Class ID": 17,
+        "Score": {
+            "Math": 6.632728442781,
+            "Physic": 8.996647283796092,
+            "Chemistry": 6.637157632325919,
+            "Literature": 5.68952907523871,
+            "History": 6.60149518760154,
+            "Geographic": 6.6266767217321565,
+            "English": 6.631447693360673,
+            "Technique": 5.306609663116664,
+            "Common Sense": 6.628961192668758,
+            "Computer": 6.638120073263347
+        },
+        "rank": "medium",
+        "average": 6.638937296588486
+    },
+    {
+        "School ID": 38,
+        "Class ID": 19,
+        "Score": {
+            "Math": 7.651707117231815,
+            "Physic": 7.651707152559811,
+            "Chemistry": 8.898986438382117,
+            "Literature": 7.652672702118958,
+            "History": 7.651706825381061,
+            "Geographic": 7.658865657842181,
+            "English": 6.465473992911523,
+            "Technique": 7.620758661896991,
+            "Common Sense": 7.613488342908189,
+            "Computer": 7.651704640097331
+        },
+        "rank": "medium",
+        "average": 7.651707153132999
+    },
+    {
+        "School ID": 38,
+        "Class ID": 31,
+        "Score": {
+            "Math": 7.482914290756775,
+            "Physic": 7.469058770082179,
+            "Chemistry": 7.483140768936098,
+            "Literature": 7.481328041652202,
+            "History": 7.36420740509517,
+            "Geographic": 7.704422510129588,
+            "English": 7.431687788663061,
+            "Technique": 7.4611283105396335,
+            "Common Sense": 7.484735985730354,
+            "Computer": 7.484735985719094
+        },
+        "rank": "medium",
+        "average": 7.484735985730417
+    },
+    {
+        "School ID": 38,
+        "Class ID": 33,
+        "Score": {
+            "Math": 7.251701950180384,
+            "Physic": 7.251621993025992,
+            "Chemistry": 7.251703660382979,
+            "Literature": 8.65722902024011,
+            "History": 5.9906040662343925,
+            "Geographic": 7.251582769739949,
+            "English": 7.101281545432119,
+            "Technique": 7.2579135292674035,
+            "Common Sense": 7.251703998414834,
+            "Computer": 7.251697449807796
+        },
+        "rank": "medium",
+        "average": 7.251703998272594
+    },
+    {
+        "School ID": 20,
+        "Class ID": 3,
+        "Score": {
+            "Math": 7.25213625996194,
+            "Physic": 5.765289067154948,
+            "Chemistry": 7.25827311949447,
+            "Literature": 7.241412121512354,
+            "History": 7.255135090745316,
+            "Geographic": 7.5189891112508,
+            "English": 7.962705238381845,
+            "Technique": 7.885438524514535,
+            "Common Sense": 7.156789281066911,
+            "Computer": 7.255129758913656
+        },
+        "rank": "medium",
+        "average": 7.255129757299677
+    },
+    {
+        "School ID": 20,
+        "Class ID": 5,
+        "Score": {
+            "Math": 7.757152568118739,
+            "Physic": 7.830061121756755,
+            "Chemistry": 7.612462200459159,
+            "Literature": 6.88271596178477,
+            "History": 7.7538795501848785,
+            "Geographic": 7.60481547364039,
+            "English": 7.736136678523549,
+            "Technique": 7.606083958422323,
+            "Common Sense": 7.650598162005553,
+            "Computer": 7.61321721367637
+        },
+        "rank": "medium",
+        "average": 7.6047122888572485
+    },
+    {
+        "School ID": 20,
+        "Class ID": 9,
+        "Score": {
+            "Math": 7.583767379504835,
+            "Physic": 7.5837702274260845,
+            "Chemistry": 7.584662993526457,
+            "Literature": 8.16319575391441,
+            "History": 7.58382967952563,
+            "Geographic": 7.908054197181784,
+            "English": 7.584397963210736,
+            "Technique": 7.684963028656324,
+            "Common Sense": 7.620005252045244,
+            "Computer": 6.541027320056838
+        },
+        "rank": "medium",
+        "average": 7.583767379504835
+    },
+    {
+        "School ID": 20,
+        "Class ID": 10,
+        "Score": {
+            "Math": 7.2249521538991015,
+            "Physic": 7.280740659260932,
+            "Chemistry": 7.223384709429713,
+            "Literature": 7.223385029590254,
+            "History": 7.221778852148844,
+            "Geographic": 6.660835852905459,
+            "English": 7.565402965005525,
+            "Technique": 7.223384871472062,
+            "Common Sense": 7.38661269770487,
+            "Computer": 7.223373429771695
+        },
+        "rank": "medium",
+        "average": 7.223385122118846
+    },
+    {
+        "School ID": 20,
+        "Class ID": 30,
+        "Score": {
+            "Math": 6.992872826655626,
+            "Physic": 7.29456760296816,
+            "Chemistry": 7.294536684140852,
+            "Literature": 7.352688093835476,
+            "History": 7.226995761582496,
+            "Geographic": 7.294615674247492,
+            "English": 7.294536568104528,
+            "Technique": 8.425465728571954,
+            "Common Sense": 7.569226443634958,
+            "Computer": 6.199861457768
+        },
+        "rank": "medium",
+        "average": 7.294536684150954
+    },
+    {
+        "School ID": 30,
+        "Class ID": 1,
+        "Score": {
+            "Math": 9.046593529826845,
+            "Physic": 7.147326620086274,
+            "Chemistry": 5.514167650857255,
+            "Literature": 7.1473266200809,
+            "History": 7.148201412330043,
+            "Geographic": 7.147326620083962,
+            "English": 7.147326620086273,
+            "Technique": 7.147327105767289,
+            "Common Sense": 6.8875490656629195,
+            "Computer": 7.140120956080982
+        },
+        "rank": "medium",
+        "average": 7.1473266200862735
+    },
+    {
+        "School ID": 30,
+        "Class ID": 9,
+        "Score": {
+            "Math": 7.899207314308307,
+            "Physic": 7.8030497180087,
+            "Chemistry": 7.899207401755975,
+            "Literature": 7.913381753877508,
+            "History": 7.890882879020442,
+            "Geographic": 7.899207262665504,
+            "English": 7.89941086247576,
+            "Technique": 7.447740760889567,
+            "Common Sense": 7.964657586440927,
+            "Computer": 8.37532745220806
+        },
+        "rank": "medium",
+        "average": 7.899207299165075
+    },
+    {
+        "School ID": 30,
+        "Class ID": 21,
+        "Score": {
+            "Math": 6.655191516756575,
+            "Physic": 6.649511152543481,
+            "Chemistry": 6.649516234740199,
+            "Literature": 8.059169579408156,
+            "History": 6.602610012269102,
+            "Geographic": 6.579603505051628,
+            "English": 6.4901025469421185,
+            "Technique": 5.5103368213526025,
+            "Common Sense": 6.6495508038870925,
+            "Computer": 6.649512162711087
+        },
+        "rank": "medium",
+        "average": 6.6495104335662045
+    },
+    {
+        "School ID": 30,
+        "Class ID": 28,
+        "Score": {
+            "Math": 7.723696724838133,
+            "Physic": 7.727774932412109,
+            "Chemistry": 7.720664865446321,
+            "Literature": 7.720825917536714,
+            "History": 7.720705033929563,
+            "Geographic": 7.72070148356898,
+            "English": 7.720730817126996,
+            "Technique": 7.741178338777538,
+            "Common Sense": 7.1146957527947015,
+            "Computer": 8.296040969258716
+        },
+        "rank": "medium",
+        "average": 7.720701483568976
+    },
+    {
+        "School ID": 26,
+        "Class ID": 13,
+        "Score": {
+            "Math": 7.702322487506154,
+            "Physic": 7.693711421371484,
+            "Chemistry": 7.766941697064257,
+            "Literature": 7.4007741852342965,
+            "History": 7.693626987309663,
+            "Geographic": 7.706895140362736,
+            "English": 7.8778323098361325,
+            "Technique": 7.703119562976629,
+            "Common Sense": 7.697384910963091,
+            "Computer": 7.6936611450036825
+        },
+        "rank": "medium",
+        "average": 7.693626984762814
+    },
+    {
+        "School ID": 26,
+        "Class ID": 21,
+        "Score": {
+            "Math": 7.960238998471359,
+            "Physic": 7.937623289943161,
+            "Chemistry": 7.937623299366516,
+            "Literature": 7.9007936459634776,
+            "History": 7.93762330012586,
+            "Geographic": 7.937933436401267,
+            "English": 7.926054743531986,
+            "Technique": 7.962930760633427,
+            "Common Sense": 7.937788216835657,
+            "Computer": 7.937623301723703
+        },
+        "rank": "medium",
+        "average": 7.937623299299642
+    },
+    {
+        "School ID": 26,
+        "Class ID": 34,
+        "Score": {
+            "Math": 7.377252837451807,
+            "Physic": 7.620700942211081,
+            "Chemistry": 7.37725294744871,
+            "Literature": 8.398966927101151,
+            "History": 7.4792059411496,
+            "Geographic": 7.33530861064109,
+            "English": 7.377248578600973,
+            "Technique": 7.407402458519921,
+            "Common Sense": 6.0219362939102234,
+            "Computer": 7.377252837436135
+        },
+        "rank": "medium",
+        "average": 7.3772528374470685
+    },
+    {
+        "School ID": 26,
+        "Class ID": 35,
+        "Score": {
+            "Math": 7.670143201165237,
+            "Physic": 7.452713641464157,
+            "Chemistry": 6.42652056281292,
+            "Literature": 7.036207194063661,
+            "History": 6.919991170597379,
+            "Geographic": 7.021217790662209,
+            "English": 7.011317660634277,
+            "Technique": 7.011317702625143,
+            "Common Sense": 6.552401516531031,
+            "Computer": 7.0113461657938805
+        },
+        "rank": "medium",
+        "average": 7.011317660634989
+    },
+    {
+        "School ID": 32,
+        "Class ID": 6,
+        "Score": {
+            "Math": 7.742857962919501,
+            "Physic": 7.0053284748974205,
+            "Chemistry": 7.184762162120693,
+            "Literature": 7.864912093103868,
+            "History": 8.807264449446976,
+            "Geographic": 7.793574707236903,
+            "English": 8.146500875127023,
+            "Technique": 7.791674575387095,
+            "Common Sense": 7.773857026619319,
+            "Computer": 7.824948512000745
+        },
+        "rank": "medium",
+        "average": 7.793568083885956
+    },
+    {
+        "School ID": 32,
+        "Class ID": 22,
+        "Score": {
+            "Math": 7.803594192533704,
+            "Physic": 7.803594192534947,
+            "Chemistry": 7.803593794270851,
+            "Literature": 7.69587172085588,
+            "History": 7.243070401771227,
+            "Geographic": 7.457400056923585,
+            "English": 7.792708860324357,
+            "Technique": 8.834618649970508,
+            "Common Sense": 7.797895906328888,
+            "Computer": 7.803594149835521
+        },
+        "rank": "medium",
+        "average": 7.803594192534947
+    },
+    {
+        "School ID": 32,
+        "Class ID": 30,
+        "Score": {
+            "Math": 6.846457482864934,
+            "Physic": 8.83171868512842,
+            "Chemistry": 6.6876919368396095,
+            "Literature": 6.532618962371969,
+            "History": 6.846755792343765,
+            "Geographic": 6.738545703459964,
+            "English": 6.537914202994376,
+            "Technique": 6.846755806858173,
+            "Common Sense": 5.961098595992022,
+            "Computer": 6.638000751499144
+        },
+        "rank": "medium",
+        "average": 6.846755792035236
+    },
+    {
+        "School ID": 32,
+        "Class ID": 32,
+        "Score": {
+            "Math": 6.704222780602811,
+            "Physic": 7.204630463503253,
+            "Chemistry": 7.20821211146827,
+            "Literature": 5.861610757539333,
+            "History": 7.208217722644135,
+            "Geographic": 9.062761096562253,
+            "English": 7.2082165342970175,
+            "Technique": 7.207871273085843,
+            "Common Sense": 7.208217755964055,
+            "Computer": 7.208217063973579
+        },
+        "rank": "medium",
+        "average": 7.208217755964055
+    },
+    {
+        "School ID": 49,
+        "Class ID": 6,
+        "Score": {
+            "Math": 5.3401384544932355,
+            "Physic": 7.143420668764135,
+            "Chemistry": 7.187829179650233,
+            "Literature": 7.181366832424669,
+            "History": 7.130309079458385,
+            "Geographic": 7.1159900001517045,
+            "English": 7.190645987557985,
+            "Technique": 7.190658163451502,
+            "Common Sense": 7.4863812552788636,
+            "Computer": 8.939842013301638
+        },
+        "rank": "medium",
+        "average": 7.190658163453236
+    },
+    {
+        "School ID": 49,
+        "Class ID": 19,
+        "Score": {
+            "Math": 7.5153374425801385,
+            "Physic": 7.026467115981862,
+            "Chemistry": 7.034823803269634,
+            "Literature": 7.0276454286559735,
+            "History": 7.026191386503058,
+            "Geographic": 7.158278913831157,
+            "English": 7.027645428130421,
+            "Technique": 6.583041194129817,
+            "Common Sense": 7.027645427757269,
+            "Computer": 6.849378133066112
+        },
+        "rank": "medium",
+        "average": 7.027645427390544
+    },
+    {
+        "School ID": 49,
+        "Class ID": 24,
+        "Score": {
+            "Math": 7.303987290497105,
+            "Physic": 6.8992026456248725,
+            "Chemistry": 6.407295968115843,
+            "Literature": 6.878561565196517,
+            "History": 6.876931677507293,
+            "Geographic": 6.877180624428959,
+            "English": 6.877069881048371,
+            "Technique": 6.877154681232937,
+            "Common Sense": 6.897011498223706,
+            "Computer": 6.877155092430622
+        },
+        "rank": "medium",
+        "average": 6.877155092430622
+    },
+    {
+        "School ID": 6,
+        "Class ID": 1,
+        "Score": {
+            "Math": 6.742376218863366,
+            "Physic": 6.586078942842692,
+            "Chemistry": 8.36270529849592,
+            "Literature": 6.24725245034889,
+            "History": 6.761564758672241,
+            "Geographic": 6.7593851541327306,
+            "English": 6.660488808058189,
+            "Technique": 5.977553221399343,
+            "Common Sense": 6.761564758718699,
+            "Computer": 6.756677975206457
+        },
+        "rank": "medium",
+        "average": 6.761564758673852
+    },
+    {
+        "School ID": 6,
+        "Class ID": 2,
+        "Score": {
+            "Math": 8.200225761827722,
+            "Physic": 7.845988007765716,
+            "Chemistry": 7.957249371177424,
+            "Literature": 7.933228370396398,
+            "History": 7.957249563722864,
+            "Geographic": 7.852250003892446,
+            "English": 7.95725467431481,
+            "Technique": 7.957251418024182,
+            "Common Sense": 7.957249334923106,
+            "Computer": 7.954546843186391
+        },
+        "rank": "medium",
+        "average": 7.957249334923105
+    },
+    {
+        "School ID": 6,
+        "Class ID": 3,
+        "Score": {
+            "Math": 7.833309597676306,
+            "Physic": 8.38630157981627,
+            "Chemistry": 7.3913489065734455,
+            "Literature": 7.833205330884757,
+            "History": 7.834928749318079,
+            "Geographic": 7.2791635105729995,
+            "English": 7.8333423641618,
+            "Technique": 7.833342495141232,
+            "Common Sense": 7.833283365444209,
+            "Computer": 8.275199707912936
+        },
+        "rank": "medium",
+        "average": 7.833342560750202
+    },
+    {
+        "School ID": 6,
+        "Class ID": 4,
+        "Score": {
+            "Math": 7.8100525486446575,
+            "Physic": 7.810052864441826,
+            "Chemistry": 7.816493896521083,
+            "Literature": 8.039438891903101,
+            "History": 7.810800588776484,
+            "Geographic": 7.84058714002235,
+            "English": 8.362855392684862,
+            "Technique": 6.98253741624324,
+            "Common Sense": 7.817654424135724,
+            "Computer": 7.810052332567884
+        },
+        "rank": "medium",
+        "average": 7.81005254959412
+    },
+    {
+        "School ID": 6,
+        "Class ID": 12,
+        "Score": {
+            "Math": 7.371119700330441,
+            "Physic": 8.761183899241098,
+            "Chemistry": 7.263994008840523,
+            "Literature": 7.448603903137349,
+            "History": 6.396230463799558,
+            "Geographic": 7.445309601752865,
+            "English": 7.447433133088011,
+            "Technique": 7.454959703183447,
+            "Common Sense": 7.4486042381460775,
+            "Computer": 7.448604279740784
+        },
+        "rank": "medium",
+        "average": 7.4486042931260155
+    },
+    {
+        "School ID": 6,
+        "Class ID": 16,
+        "Score": {
+            "Math": 7.857677699179509,
+            "Physic": 7.855610608865395,
+            "Chemistry": 7.857693571839989,
+            "Literature": 7.8829965676986635,
+            "History": 7.857643425498755,
+            "Geographic": 7.839798288026724,
+            "English": 7.164509049131506,
+            "Technique": 8.545487436139261,
+            "Common Sense": 7.857680603571265,
+            "Computer": 7.857679741844026
+        },
+        "rank": "medium",
+        "average": 7.85767769917951
+    },
+    {
+        "School ID": 6,
+        "Class ID": 19,
+        "Score": {
+            "Math": 6.773016777959407,
+            "Physic": 6.943213847565509,
+            "Chemistry": 6.942926488256364,
+            "Literature": 6.303712296131126,
+            "History": 7.8914343363394925,
+            "Geographic": 6.878489643176203,
+            "English": 6.94321306178314,
+            "Technique": 6.943214252182372,
+            "Common Sense": 6.94321455341933,
+            "Computer": 6.869710277380402
+        },
+        "rank": "medium",
+        "average": 6.9432145534193355
+    },
+    {
+        "School ID": 6,
+        "Class ID": 31,
+        "Score": {
+            "Math": 7.209054396853854,
+            "Physic": 7.4363053010816715,
+            "Chemistry": 7.296668584875417,
+            "Literature": 7.266065622180417,
+            "History": 7.2967353109398925,
+            "Geographic": 7.296735310940681,
+            "English": 7.296237610394381,
+            "Technique": 7.282417979874895,
+            "Common Sense": 7.296735310940681,
+            "Computer": 7.290397681324922
+        },
+        "rank": "medium",
+        "average": 7.29673531094068
+    },
+    {
+        "School ID": 11,
+        "Class ID": 16,
+        "Score": {
+            "Math": 9.165839636519424,
+            "Physic": 7.946953518912613,
+            "Chemistry": 7.941626486778003,
+            "Literature": 7.945120590474203,
+            "History": 7.947660276449933,
+            "Geographic": 7.94762703087974,
+            "English": 6.76339718683237,
+            "Technique": 7.923052982002501,
+            "Common Sense": 7.947664779245086,
+            "Computer": 7.947660276453794
+        },
+        "rank": "medium",
+        "average": 7.947660276454765
+    },
+    {
+        "School ID": 11,
+        "Class ID": 17,
+        "Score": {
+            "Math": 7.181352122869072,
+            "Physic": 7.220484650295796,
+            "Chemistry": 6.922978305098085,
+            "Literature": 6.304224485239979,
+            "History": 7.1867380029293475,
+            "Geographic": 7.187213622773581,
+            "English": 7.187222939884684,
+            "Technique": 7.1872229415033955,
+            "Common Sense": 7.182951187644846,
+            "Computer": 8.311841139850062
+        },
+        "rank": "medium",
+        "average": 7.187222939808885
+    },
+    {
+        "School ID": 11,
+        "Class ID": 20,
+        "Score": {
+            "Math": 7.263805091751362,
+            "Physic": 7.917094096756595,
+            "Chemistry": 7.917451952550946,
+            "Literature": 7.917454365148745,
+            "History": 7.91745435529273,
+            "Geographic": 8.694998124612576,
+            "English": 8.256577565706682,
+            "Technique": 7.0629514346209366,
+            "Common Sense": 8.09578709589923,
+            "Computer": 8.130969575471676
+        },
+        "rank": "medium",
+        "average": 7.917454365781149
+    },
+    {
+        "School ID": 11,
+        "Class ID": 22,
+        "Score": {
+            "Math": 7.050816801286264,
+            "Physic": 7.379657323030158,
+            "Chemistry": 7.054292227237253,
+            "Literature": 7.078400905017477,
+            "History": 7.05428491778042,
+            "Geographic": 7.106977619098159,
+            "English": 7.054286149355457,
+            "Technique": 7.046707887175151,
+            "Common Sense": 8.222568647015661,
+            "Computer": 5.494930188850797
+        },
+        "rank": "medium",
+        "average": 7.05429226658468
+    },
+    {
+        "School ID": 11,
+        "Class ID": 25,
+        "Score": {
+            "Math": 7.606986124118161,
+            "Physic": 7.595042136383693,
+            "Chemistry": 7.595086610389072,
+            "Literature": 7.594943351712449,
+            "History": 7.595087605503756,
+            "Geographic": 7.5478023713331375,
+            "English": 7.934002421140589,
+            "Technique": 7.299094874330337,
+            "Common Sense": 7.595071528490994,
+            "Computer": 7.587759033077393
+        },
+        "rank": "medium",
+        "average": 7.595087605647957
+    }
+]
