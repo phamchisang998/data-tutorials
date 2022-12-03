@@ -1,4 +1,4 @@
-product name,order id,price,amount,total
+product_name,order_id,price,amount,total
 coffee,1,15000,5,75000
 milk,2,20000,7,140000
 latte,3,17000,3,51000

@@ -1,0 +1,18 @@
+# start SQL
+sudo systemctl start mysql.service
+sudo mysql
+
+# create Database
+create database database_name;
+use database_name;
+
+# create table
+create table Agents (
+    agent_code varchar(6) not null default '',
+    agent_name varchar(40) default null,
+    working_area varchar(35) default null,
+    commission decimal(10,2) default null,
+    phone_no varchar(15) default null,
+    country varchar(25) default null,
+    primary key (agent_code) );
+
