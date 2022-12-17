@@ -4,3 +4,6 @@ jupyterlab
 notebook
 pymysql
 sqlalchemy
+bs4
+html5
+html5lib
