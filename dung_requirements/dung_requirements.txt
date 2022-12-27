@@ -7,3 +7,4 @@ sqlalchemy
 bs4
 html5
 html5lib
+mysql-connector-python
