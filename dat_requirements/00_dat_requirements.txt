@@ -5,3 +5,5 @@ pymysql
 sqlalchemy
 jupyterlab
 notebook
+html5
+beautifulsoup4
