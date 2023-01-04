@@ -1,1 +1,1 @@
-id,name,short_url,short_description,price,list_price,original_price,discount,discount_rate,rating_average,inventory_status,inventory_type,is_fresh,seller,is_gift_card,data_version,brand_id,current_seller_id,current_seller_price,other_sellers,fulfillment_type,breadcrumbs,partner_rewards_amount,tiki_rewards_amount,total_rewards_amount
+id,name,short_url,short_description,price,list_price,original_price,discount,discount_rate,rating_average,inventory_status,inventory_type,is_fresh,seller,is_gift_card,data_version,brand,current_seller,other_sellers,inventory,breadcrumbs,amplitude
